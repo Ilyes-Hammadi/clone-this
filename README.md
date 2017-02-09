@@ -21,6 +21,7 @@ this project aims to help folks who are learning a new stack to build a project 
 
 ## Front-End Development
 - [React](#react)
+- [Redux](#redux)
 
 ## Back-End Development
 - [Django](#django)
@@ -31,6 +32,10 @@ this project aims to help folks who are learning a new stack to build a project 
 ### Python
 
 ### React
+
+### Redux
+- Easy
+  - [reduxstagram](https://github.com/balintsoos/reduxstagram) - Instagram client made with React & Redux
 
 ### Django
 - Meduim
