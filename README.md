@@ -33,4 +33,5 @@ this project aims to help folks who are learning a new stack to build a project 
 ### React
 
 ### Django
-
+- Meduim
+  - [digital-marketplace](https://github.com/codingforentrepreneurs/digital-marketplace) - A Digital Marketplace where users can buy & sell digital goods 
