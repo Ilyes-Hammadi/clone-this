@@ -27,7 +27,7 @@ this project aims to help folks who are learning a new stack to build a project 
 ## Back-End Development
 - [Django](#django)
 
-## Mobile-application development
+## Mobile Application Development
 - [ReactNative](#reactnative)
 
 ------------------------------------------------------------------
